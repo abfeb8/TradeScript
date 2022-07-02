@@ -1,5 +1,5 @@
 # TradeScript
-### I use this Script to update stock prices on Google Sheet
+### I use this Script to keep track of open trades on Google Sheet
 ---
 ### I have used:
 - Python
